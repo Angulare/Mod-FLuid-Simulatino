@@ -21,7 +21,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
-
+// This slight modification was made in part for the webflow community and the request for this fluid expereiment with a light background and deeper colors
 'use strict';
 
 const canvas = document.getElementsByTagName('canvas')[0];
@@ -36,7 +36,7 @@ let config = {
     PRESSURE: 0.8,
     PRESSURE_ITERATIONS: 20,
     CURL: 5,
-    SPLAT_RADIUS: 0.35,
+    SPLAT_RADIUS: 0.45,
     SPLAT_FORCE: 6000,
     SHADING: true,
     COLORFUL: true,
