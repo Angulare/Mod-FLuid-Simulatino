@@ -21,7 +21,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
-// This slight modification was made in part for the webflow community and the request for this fluid expereiment with a light background and deeper colors
+/* 
+ANGULARE MODIFIED 10/22/19
+This slight modification was made in part for the webflow community and the request for this fluid expereiment 
+with a light background and deeper colors
+ */
 'use strict';
 
 const canvas = document.getElementsByTagName('canvas')[0];
